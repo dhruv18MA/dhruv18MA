@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=dhruv18MA" />
 
 
-[![Gmail Badge](https://img.shields.io/badge/-dhruvjoshi43@gmail.com-red?style=flat-pill&logo=Gmail&logoColor=white&link=mailto:mxr180061@utdallas.edu)](mailto:dhruvjoshi43@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-dhruvjoshi43@gmail.com-red?style=flat-pill&logo=Gmail&logoColor=white&link=mailto:dhruvjoshi43@gmail.com)](mailto:dhruvjoshi43@gmail.com)
 
 
 
