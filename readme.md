@@ -1,8 +1,8 @@
-## Hi there 👋 I am [Dhruv Joshi](https://pending.me)
+## Hi there 👋 I am [Dhruv Joshi](..)
 <img src="https://komarev.com/ghpvc/?username=dhruv18MA" />
 
 
-[![Gmail Badge](https://img.shields.io/badge/-rakshitsourav3@gmail.com-red?style=flat-pill&logo=Gmail&logoColor=white&link=mailto:mxr180061@utdallas.edu)](mailto:dhruvjoshi43@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-dhruvjoshi43@gmail.com-red?style=flat-pill&logo=Gmail&logoColor=white&link=mailto:mxr180061@utdallas.edu)](mailto:dhruvjoshi43@gmail.com)
 
 
 
