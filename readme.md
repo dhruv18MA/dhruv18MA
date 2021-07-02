@@ -1,4 +1,4 @@
-## Hi there 👋 I am [Dhruv Joshi](..)
+## Hi there 👋 I am Dhruv Joshi
 <img src="https://komarev.com/ghpvc/?username=dhruv18MA" />
 
 
