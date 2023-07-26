@@ -4,17 +4,18 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-dhruvjoshi43@gmail.com-red?style=flat-pill&logo=Gmail&logoColor=white&link=mailto:dhruvjoshi43@gmail.com)](mailto:dhruvjoshi43@gmail.com)
 
-
-
+<!---
+Icon source :  https://dev.to/envoy_/150-badges-for-github-pnk
+-->
 <h3>Technologies I work on</h3>
 <p>
   <img alt="C++" src="https://img.shields.io/badge/++-darkblue?style=flat-pill&logo=C&logoColor=white" />
-  <img alt="Java" src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-pill&logo=Python&logoColor=white" />
-  <img alt="Kotlin" src="https://repository-images.githubusercontent.com/3432266/7e79bf80-7aa6-11eb-9cbd-d7bda7eaf1aa"/>
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-000?style=flat-pill&logo=javascript&logo_color=000000" />
-  <img alt="React" src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg"/>
-  <img alt="Postgres" src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg"/>
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img alt="Shell" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-pill&logo=Linux&logoColor=black" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-pill&logo=git&logoColor=white" />
   
